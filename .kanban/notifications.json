@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ntf-ext-created-T-1795626104887",
+    "type": "ticket_created",
+    "ticketId": "T-1795626104887",
+    "ticketTitle": "#286 GPU: allocate_upload accepts invalid sub-16 alignments and aborts on over…",
+    "actorProfileId": "",
+    "actorDisplayName": "claude-code",
+    "preview": "Created: #286 GPU: allocate_upload accepts invalid sub-16 alignments and aborts",
+    "created": "2026-11-25T17:01:44.668Z"
+  }
+] }
+]
