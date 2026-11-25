@@ -1,0 +1,4 @@
+# >>> kanban git sync (managed, do not edit) >>>
+.kanban/locks/
+.kanban/conflicts/provider-copies/
+# <<< kanban git sync <<<

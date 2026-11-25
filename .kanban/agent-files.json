@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "files": {
+    "README.md": {
+      "mode": "managed",
+      "hash": "sha256-f7e49936ac2ea978a8fe9682e6cb7d5ca26cc5aa52df1a092456c8060ef348a5"
+    },
+    "CLAUDE.md": {
+      "mode": "managed",
+      "hash": "sha256-e0456b0960925d7cd08472202c83cdd2220879e432df4c348bc1dbec0726f307"
+    },
+    "AGENTS.md": {
+      "mode": "managed",
+      "hash": "sha256-6115665f4feadf044173086e78e718da9c45c0b382e95ebc147657f090806542"
+    },
+    ".github/copilot-instructions.md": {
+      "mode": "managed",
+      "hash": "sha256-db0116a6499faffbf4f63321c5acdba00a0f7e7722d6d341029da30654e96c35"
+    }
+  }
+}

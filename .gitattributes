@@ -1,0 +1,3 @@
+# >>> kanban git sync (managed, do not edit) >>>
+attachments/*/activity.jsonl merge=union
+# <<< kanban git sync <<<
